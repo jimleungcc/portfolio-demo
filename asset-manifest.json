@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jimleungcc/portfolio-demo/static/css/main.a659989c.css",
+    "main.js": "/jimleungcc/portfolio-demo/static/js/main.8d9b021f.js",
+    "static/js/787.7d4caaf7.chunk.js": "/jimleungcc/portfolio-demo/static/js/787.7d4caaf7.chunk.js",
+    "static/media/dev.png": "/jimleungcc/portfolio-demo/static/media/dev.4453df7ef1e82677cf89.png",
+    "static/media/tick.png": "/jimleungcc/portfolio-demo/static/media/tick.d7cc1d9586aaaec71452.png",
+    "index.html": "/jimleungcc/portfolio-demo/index.html",
+    "main.a659989c.css.map": "/jimleungcc/portfolio-demo/static/css/main.a659989c.css.map",
+    "main.8d9b021f.js.map": "/jimleungcc/portfolio-demo/static/js/main.8d9b021f.js.map",
+    "787.7d4caaf7.chunk.js.map": "/jimleungcc/portfolio-demo/static/js/787.7d4caaf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a659989c.css",
+    "static/js/main.8d9b021f.js"
+  ]
+}
